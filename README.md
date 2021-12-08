@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Vanessa Berazategui.
 
 📫 How to reach me:
- <a href="https://about.me/vanessa-berazategui">🔗</a>
+ <a href="https://beacons.ai/vanessa.berazategui">🔗</a>
 <!--
 **Vanessa-Berazategui/Vanessa-Berazategui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
