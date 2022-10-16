@@ -2,6 +2,9 @@
 
 📫 How to reach me:
  <a href="https://beacons.ai/vanessa.berazategui">🔗</a>
+ 
+<a href="https://app.daily.dev/vaneberazategui"><img src="https://api.daily.dev/devcards/52e2c81911bf435f9cc6ba7e3197d861.png?r=zzw" width="400" alt="Vanessa Berazategui's Dev Card"/></a>
+ 
 <!--
 **Vanessa-Berazategui/Vanessa-Berazategui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
