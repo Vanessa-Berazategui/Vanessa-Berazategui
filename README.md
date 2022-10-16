@@ -1,7 +1,8 @@
 
 
+![MasterHead](https://user-images.githubusercontent.com/37006656/196012417-1d471109-1f53-4da1-b236-2fea32e1cc3d.jpg)
 
-![[MasterHead]](https://user-images.githubusercontent.com/37006656/196012361-44e1152d-3406-440b-bed3-7cdf734fabd8.jpg)
+
 
 ### Hi there 👋, I'm Vanessa Berazategui.
  
