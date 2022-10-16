@@ -1,10 +1,7 @@
-
-
 ![MasterHead](https://user-images.githubusercontent.com/37006656/196012417-1d471109-1f53-4da1-b236-2fea32e1cc3d.jpg)
 
-
-
-### Hi there 👋, I'm Vanessa Berazategui.
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Vanessa Berazategui</h1>
+<h3 align="center">Computer engineer</h3>
  
 <!--
 <a href="https://app.daily.dev/vaneberazategui"><img src="https://api.daily.dev/devcards/52e2c81911bf435f9cc6ba7e3197d861.png?r=zzw" width="400" alt="Vanessa Berazategui's Dev Card"/></a>
