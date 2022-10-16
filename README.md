@@ -1,9 +1,13 @@
-### Hi there 👋, I'm Vanessa Berazategui.
 
-📫 How to reach me:
- <a href="https://beacons.ai/vanessa.berazategui">🔗</a>
+
+
+![[MasterHead]](https://user-images.githubusercontent.com/37006656/196012361-44e1152d-3406-440b-bed3-7cdf734fabd8.jpg)
+
+### Hi there 👋, I'm Vanessa Berazategui.
  
+<!--
 <a href="https://app.daily.dev/vaneberazategui"><img src="https://api.daily.dev/devcards/52e2c81911bf435f9cc6ba7e3197d861.png?r=zzw" width="400" alt="Vanessa Berazategui's Dev Card"/></a>
+ -->
  
 <!--
 **Vanessa-Berazategui/Vanessa-Berazategui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
