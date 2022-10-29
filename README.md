@@ -1,8 +1,10 @@
+[![](https://visitcount.itsvg.in/api?id=Vanessa-Berazategui&icon=1&color=1)](https://visitcount.itsvg.in)
 ![head](https://user-images.githubusercontent.com/37006656/196012417-1d471109-1f53-4da1-b236-2fea32e1cc3d.jpg)
 
 
 
-🌎 Find me on  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vanessa_berazategui/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://uy.linkedin.com/in/vanessa-berazategui) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/9436681/vanessa-berazategui) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/vaneberazategui) [![](https://visitcount.itsvg.in/api?id=Vanessa-Berazategui&icon=1&color=1)](https://visitcount.itsvg.in)
+🌎 Find me on  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vanessa_berazategui/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://uy.linkedin.com/in/vanessa-berazategui) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/9436681/vanessa-berazategui) [![Twitter](![twitter](https://user-images.githubusercontent.com/37006656/198855584-fd1a14b8-66b6-4d36-8c9d-c52f20b1f204.png)
+)](https://twitter.com/vaneberazategui)
 
 💻 Tech Stack
 
