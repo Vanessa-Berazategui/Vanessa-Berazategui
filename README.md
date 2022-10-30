@@ -61,7 +61,7 @@ and wearable technologies.
  📊 GitHub Stats
  
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessa-berazategui&show_icons=true&locale=en&theme=swift"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessa-berazategui&show_icons=true&locale=en&theme=swift"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessa-berazategui&show_icons=true&locale=en&theme=swift&line_height=40"/>
  
  <br/>
  
