@@ -58,11 +58,11 @@
 📊 GitHub Stats
 
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessa-berazategui&show_icons=true&locale=en" alt="vanessa-berazategui"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessa-berazategui&show_icons=true&locale=en&theme=swift" alt="vanessa-berazategui"/>
 </p>
  
 <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessa-berazategui&show_icons=true&locale=en" alt="vanessa-berazategui"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessa-berazategui&show_icons=true&locale=en&theme=swift" alt="vanessa-berazategui"/>
 </p>
  
 
