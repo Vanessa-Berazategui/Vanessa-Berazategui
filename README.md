@@ -58,7 +58,7 @@
 📊 GitHub Stats
 
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessa-berazategui&show_icons=true&locale=en&layout=compact" alt="vanessa-berazategui"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessa-berazategui&show_icons=true&locale=en" alt="vanessa-berazategui"/>
 </p>
  
 <p>
