@@ -26,9 +26,9 @@ and wearable technologies.
 
 🌎 Find me on  
 
-<p align="left">
- <a href="https://twitter.com/vaneberazategui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaneberazategui" height="30" width="40" />
- </a>
+[<img align="left" height="50" width="50" src="https://user-images.githubusercontent.com/37006656/198861624-1f157a64-0293-4867-a5d1-a2f03859ceb0.png">](https://twitter.com/vaneberazategui)
+
+
 <a href="https://linkedin.com/in/vanessa-berazategui" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanessa-berazategui" height="30" width="40" />
  </a>
