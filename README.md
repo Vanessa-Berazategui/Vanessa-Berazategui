@@ -1,4 +1,3 @@
-
 <p align="right">
  <img src="https://komarev.com/ghpvc/?username=vanessa-berazategui&label=Profile%20views&color=0e75b6&style=flat" alt="vanessa-berazategui"/>
 </p>
@@ -24,7 +23,7 @@ and wearable technologies.
 
 <br>
 
-🌎 Find me on  
+🌎 Find me on[^1]  
 
 [<img align="left" height="50" width="50" src="https://user-images.githubusercontent.com/37006656/198861624-1f157a64-0293-4867-a5d1-a2f03859ceb0.png">](https://twitter.com/vaneberazategui)
 
@@ -32,17 +31,9 @@ and wearable technologies.
 
 [<img align="left" height="50" width="50" src="https://user-images.githubusercontent.com/37006656/198861919-d63843d6-6a67-4455-a928-e0bfaee598f0.png">](https://instagram.com/vanessa_berazategui)
 
-
-
-<a href="https://stackoverflow.com/users/vanessa-berazategui" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vanessa-berazategui" height="30" width="40" />
- </a>
-
-
+[<img align="left" height="50" width="50" src="https://user-images.githubusercontent.com/37006656/198906618-3f049424-cd48-42d2-85b9-1dce82c86d53.png">](https://stackoverflow.com/users/vanessa-berazategui)
 
 <br>
-
-<a href="https://www.flaticon.es/iconos-gratis/gorjeo" title="gorjeo iconos">Gorjeo iconos creados por Freepik - Flaticon</a>
 
 <br>
 
@@ -89,5 +80,9 @@ and wearable technologies.
  
  <br>
  
- ![snake gif](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/blob/output/github-contribution-grid-snake.gif)
+
+<br>
+ 
+ [^1]: [gorjeo iconos](https://www.flaticon.es/iconos-gratis/gorjeo)
 
