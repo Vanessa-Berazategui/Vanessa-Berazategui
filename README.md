@@ -20,8 +20,6 @@ and wearable technologies.
 
 <img align="right" src=https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif>
 
-<br/>
-
 🌎 Find me on [^1]
 
 [<img align="left" height="50" width="50" src="https://user-images.githubusercontent.com/37006656/198861624-1f157a64-0293-4867-a5d1-a2f03859ceb0.png">](https://twitter.com/vaneberazategui)
