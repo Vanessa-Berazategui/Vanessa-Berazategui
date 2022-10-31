@@ -18,8 +18,9 @@ programming and with a strong interest in the areas of the internet of things, h
 and wearable technologies.
 ```
 
-<img align="right" src=https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif>
+<br/>
 
+<img align="right" src=https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif>
 
 🌎 Find me on [^1]
 
@@ -47,6 +48,7 @@ and wearable technologies.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+<br/>
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 <br/>
