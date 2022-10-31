@@ -1,8 +1,6 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=vanessa-berazategui&label=Profile%20views&color=0e75b6&style=flat" alt="vanessa-berazategui"/>
-
-<br/>
-
 ![header](https://user-images.githubusercontent.com/37006656/198909054-bb61ba21-0b47-4308-aa58-1ac550fcd1c8.jpg)
+
+<img align="right" src="https://komarev.com/ghpvc/?username=vanessa-berazategui&label=Profile%20views&color=0e75b6&style=flat" alt="vanessa-berazategui"/>
 
 #  Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, mi nombre es Vanessa Berazategui 
 
