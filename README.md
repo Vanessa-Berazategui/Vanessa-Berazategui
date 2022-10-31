@@ -2,7 +2,7 @@
 
 <br/>
 
-![head](https://user-images.githubusercontent.com/37006656/196012417-1d471109-1f53-4da1-b236-2fea32e1cc3d.jpg)
+![header](https://user-images.githubusercontent.com/37006656/198909054-bb61ba21-0b47-4308-aa58-1ac550fcd1c8.jpg)
 
 #  Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, mi nombre es Vanessa Berazategui 
 
@@ -71,6 +71,8 @@ and wearable technologies.
  
  <br/>
   
+ ![footer](https://user-images.githubusercontent.com/37006656/198909070-d4038dcc-a64f-4add-80d5-463fbf42d615.jpg)
+
  [^1]: [gorjeo iconos](https://www.flaticon.es/iconos-gratis/gorjeo)
  
  
