@@ -18,8 +18,6 @@ programming and with a strong interest in the areas of the internet of things, h
 and wearable technologies.
 ```
 
-<br/>
-
 <img align="right" src=https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif>
 
 
