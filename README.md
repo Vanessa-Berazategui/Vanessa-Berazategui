@@ -4,32 +4,24 @@
 
 #  Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, mi nombre es Vanessa Berazategui 
 
+```
+Hola, mi nombre es Vanessa Berazategui y soy Ingeniera en Computación de la Facultad de Ingeniería de la Universidad 
+de la República. Actualmente me encuentro trabajando como Senior Software Engineer en una empresa del sector privado 
+en Montevideo, Uruguay. Me caracterizo por ser una persona proactiva, organizada y perseverante, fanática de la
+tecnología, la programación y con un fuerte interés en las áreas del internet de las cosas, la interacción 
+persona-computadora, la domótica y las tecnologías usables.
 
-<table>
- <tr>
-  <td width="50%" valign="top">
-   ```
-    Hola, mi nombre es Vanessa Berazategui y soy Ingeniera en Computación de la Facultad de Ingeniería de la Universidad 
-    de la República. Actualmente me encuentro trabajando como Senior Software Engineer en una empresa del sector privado 
-    en Montevideo, Uruguay. Me caracterizo por ser una persona proactiva, organizada y perseverante, fanática de la
-    tecnología, la programación y con un fuerte interés en las áreas del internet de las cosas, la interacción 
-    persona-computadora, la domótica y las tecnologías usables.
-    <br>
-    <br>
-    Hi, my name is Vanessa Berazategui and I'm a Computer Engineer from the School of Engineering of the University 
-    of the Republic. I am currently working as a Senior Software Engineer in a private sector company 
-    in Montevideo, Uruguay. I am characterized for being a proactive, organized and persevering person, a fan of technology, 
-    programming and with a strong interest in the areas of the internet of things, human-computer interaction, home automation 
-    and wearable technologies.
-   ```
-  </td>
-  <td valign="center">
-   <img src=https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif>
-  </td>
- </tr>
-</table>
+Hi, my name is Vanessa Berazategui and I'm a Computer Engineer from the School of Engineering of the University 
+of the Republic. I am currently working as a Senior Software Engineer in a private sector company 
+in Montevideo, Uruguay. I am characterized for being a proactive, organized and persevering person, a fan of technology, 
+programming and with a strong interest in the areas of the internet of things, human-computer interaction, home automation 
+and wearable technologies.
+```
 
 <br/>
+
+<img align="right" src=https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif>
+
 
 🌎 Find me on [^1]
 
@@ -61,25 +53,25 @@
 
 <br/>
 
- 🏆 GitHub Trophies
- 
- [<img align="left" src="https://github-profile-trophy.vercel.app/?username=vanessa-berazategui&margin-w=10"/>](https://github.com/ryo-ma/github-profile-trophy)
- 
-<br/><br/><br/><br/><br/><br/>
- 
- 📊 GitHub Stats
- 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessa-berazategui&show_icons=true&locale=en&theme=swift"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessa-berazategui&show_icons=true&locale=en&theme=swift&line_height=40"/>
- 
- <br/>
- 
- ![snake gif](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/blob/output/github-contribution-grid-snake.gif)
- 
- <br/>
-  
- ![footer](https://user-images.githubusercontent.com/37006656/198909070-d4038dcc-a64f-4add-80d5-463fbf42d615.jpg)
+🏆 GitHub Trophies
 
- [^1]: [gorjeo iconos](https://www.flaticon.es/iconos-gratis/gorjeo)
+[<img align="left" src="https://github-profile-trophy.vercel.app/?username=vanessa-berazategui&margin-w=10"/>](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/><br/><br/><br/><br/><br/>
+
+📊 GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessa-berazategui&show_icons=true&locale=en&theme=swift"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessa-berazategui&show_icons=true&locale=en&theme=swift&line_height=40"/>
+
+<br/>
+
+![snake gif](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/blob/output/github-contribution-grid-snake.gif)
+
+<br/>
+
+![footer](https://user-images.githubusercontent.com/37006656/198909070-d4038dcc-a64f-4add-80d5-463fbf42d615.jpg)
+
+[^1]: [gorjeo iconos](https://www.flaticon.es/iconos-gratis/gorjeo)
  
  
