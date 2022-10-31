@@ -4,6 +4,8 @@
 
 #  Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, mi nombre es Vanessa Berazategui 
 
+<br/>
+
 ```
 Hola, mi nombre es Vanessa Berazategui y soy Ingeniera en Computación de la Facultad de Ingeniería de la Universidad 
 de la República. Actualmente me encuentro trabajando como Senior Software Engineer en una empresa del sector privado 
