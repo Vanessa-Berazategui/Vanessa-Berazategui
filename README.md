@@ -29,7 +29,7 @@ interaction, home automation, and wearable technologies.
 [<img align="left" height="50" width="50" src="https://user-images.githubusercontent.com/37006656/198861624-1f157a64-0293-4867-a5d1-a2f03859ceb0.png">](https://twitter.com/vaneberazategui)
 [<img align="left" height="50" width="50" src="https://user-images.githubusercontent.com/37006656/198861838-c217d8f5-2255-4536-9818-344642e85634.png">](https://linkedin.com/in/vanessa-berazategui)
 [<img align="left" height="50" width="50" src="https://user-images.githubusercontent.com/37006656/198861919-d63843d6-6a67-4455-a928-e0bfaee598f0.png">](https://instagram.com/vanessa_berazategui)
-[<img align="left" height="50" width="50" src="https://user-images.githubusercontent.com/37006656/198906618-3f049424-cd48-42d2-85b9-1dce82c86d53.png">](https://stackoverflow.com/users/vanessa-berazategui)
+[<img align="left" height="50" width="50" src="https://user-images.githubusercontent.com/37006656/198906618-3f049424-cd48-42d2-85b9-1dce82c86d53.png">](https://stackoverflow.com/users/9436681/vanessa-berazategui)
 
 <br/><br/><br/>
 
