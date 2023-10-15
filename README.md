@@ -76,7 +76,8 @@ interaction, home automation, and wearable technologies.
 
 <br/>
 
-![footer](https://user-images.githubusercontent.com/37006656/198909070-d4038dcc-a64f-4add-80d5-463fbf42d615.jpg)
+![footer](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/assets/37006656/c6bb87b4-17a7-477e-88b5-64e7f89ce72e)
+
 
 [^1]: [gorjeo iconos](https://www.flaticon.es/iconos-gratis/gorjeo)
 [^2]: [freepik iconos](https://www.flaticon.es/iconos-gratis/freepik)
