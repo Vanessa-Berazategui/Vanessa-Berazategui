@@ -20,7 +20,8 @@ of technology, and programming, and with a strong interest in the areas of the i
 interaction, home automation, and wearable technologies.
 ```
 
-<br/>
+<img align="center" src="https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/assets/37006656/f7a4ec3f-a4a0-4741-803f-5e17b0f12999"/>
+
 
 🌎 Find me on [^1][^2]
 
@@ -31,24 +32,7 @@ interaction, home automation, and wearable technologies.
 [<img align="left" height="50" width="50" src="https://user-images.githubusercontent.com/37006656/216207514-b99a15b9-9756-4421-998b-cdb6a2fb97eb.png">](https://www.youtube.com/channel/UCaqmU0Ccn_XggrEXEEj2XSQ)
 [<img align="left" height="40" width="40" src="https://user-images.githubusercontent.com/37006656/249651884-2b4c4935-e359-46b6-9060-76f15b89a709.png">](https://g.dev/vberazategui)
 
-<br/><br/><br/>
-
-🏆 GitHub Trophies
-
-[<img align="left" src="https://github-profile-trophy.vercel.app/?username=vanessa-berazategui&margin-w=10"/>](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/><br/><br/><br/><br/><br/>
-
-📊 GitHub Stats
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessa-berazategui&show_icons=true&locale=en&theme=swift"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessa-berazategui&show_icons=true&locale=en&theme=swift&line_height=40"/>
-
-<br/>
-
-![snake gif](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/blob/output/github-contribution-grid-snake.gif)
-
-<br/>
+<br/><br/>
 
 ![footer](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/assets/37006656/c6bb87b4-17a7-477e-88b5-64e7f89ce72e)
 
