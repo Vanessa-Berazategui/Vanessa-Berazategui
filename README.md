@@ -1,7 +1,5 @@
 ![header](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/assets/37006656/5b552b53-1418-45d0-875e-2fb594b9b416)
 
-
-
 <img align="right" src="https://komarev.com/ghpvc/?username=vanessa-berazategui&label=Profile%20views&color=0e75b6&style=flat" alt="vanessa-berazategui"/>
 
 #  Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, mi nombre es Vanessa Berazategui 
@@ -24,8 +22,6 @@ interaction, home automation, and wearable technologies.
 
 <br/>
 
-<img align="right" src=https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif>
-
 🌎 Find me on [^1][^2]
 
 [<img align="left" height="40" width="40" src="https://user-images.githubusercontent.com/37006656/198861624-1f157a64-0293-4867-a5d1-a2f03859ceb0.png">](https://twitter.com/vaneberazategui)
@@ -35,29 +31,7 @@ interaction, home automation, and wearable technologies.
 [<img align="left" height="50" width="50" src="https://user-images.githubusercontent.com/37006656/216207514-b99a15b9-9756-4421-998b-cdb6a2fb97eb.png">](https://www.youtube.com/channel/UCaqmU0Ccn_XggrEXEEj2XSQ)
 [<img align="left" height="40" width="40" src="https://user-images.githubusercontent.com/37006656/249651884-2b4c4935-e359-46b6-9060-76f15b89a709.png">](https://g.dev/vberazategui)
 
-<br/><br/><br/><br/><br/>
-
-💻 Tech Stack
-
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-<br/>
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-<br/>
+<br/><br/><br/>
 
 🏆 GitHub Trophies
 
