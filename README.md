@@ -1,4 +1,6 @@
-![header](https://user-images.githubusercontent.com/37006656/198909054-bb61ba21-0b47-4308-aa58-1ac550fcd1c8.jpg)
+![header](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/assets/37006656/5b552b53-1418-45d0-875e-2fb594b9b416)
+
+
 
 <img align="right" src="https://komarev.com/ghpvc/?username=vanessa-berazategui&label=Profile%20views&color=0e75b6&style=flat" alt="vanessa-berazategui"/>
 
