@@ -29,10 +29,14 @@
 [<img align="left" height="50" width="50" src="https://user-images.githubusercontent.com/37006656/216207514-b99a15b9-9756-4421-998b-cdb6a2fb97eb.png">](https://www.youtube.com/channel/UCaqmU0Ccn_XggrEXEEj2XSQ)
 [<img align="left" height="40" width="40" src="https://user-images.githubusercontent.com/37006656/249651884-2b4c4935-e359-46b6-9060-76f15b89a709.png">](https://g.dev/vberazategui)
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
+
+<img src="https://myreadme.vercel.app/api/embed/Vanessa-Berazategui?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+
+<br/><br/><br/>
 
 ![footer](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/assets/37006656/c6bb87b4-17a7-477e-88b5-64e7f89ce72e)
-
 
 [^1]: [gorjeo iconos](https://www.flaticon.es/iconos-gratis/gorjeo)
 [^2]: [freepik iconos](https://www.flaticon.es/iconos-gratis/freepik)
