@@ -26,7 +26,7 @@
 
 <img src="https://myreadme.vercel.app/api/embed/Vanessa-Berazategui?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-![Snake animation](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/blob/output/github-contribution-grid-snake2.svg)
 
 <br/><br/>
 
