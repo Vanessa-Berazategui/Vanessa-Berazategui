@@ -21,15 +21,11 @@
 <br/>
 
  👉🏼 Find me on
+ 
 ![_f3f33a08-2dd5-429e-8fc2-b014ac8faa8c](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/assets/37006656/a775feaf-757d-4e13-a4bb-ca9c48a7e09e)
-
-
-
-<br/><br/><br/>
 
 <img src="https://myreadme.vercel.app/api/embed/Vanessa-Berazategui?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-
-<br/><br/><br/>
+<br/><br/>
 
 ![footer](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/assets/37006656/c6bb87b4-17a7-477e-88b5-64e7f89ce72e)
