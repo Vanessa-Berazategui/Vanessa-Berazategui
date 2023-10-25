@@ -1,5 +1,6 @@
 ![header](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/assets/37006656/5b552b53-1418-45d0-875e-2fb594b9b416)
 
+
 <img align="right" src="https://komarev.com/ghpvc/?username=vanessa-berazategui&label=Profile%20views&color=0e75b6&style=flat" alt="vanessa-berazategui"/>
 
 <h1>Hola <img src="https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/assets/37006656/96f2376b-7c2a-4d3c-b39a-180e1a591437" width="35px" height="35px">, mi nombre es Vanessa Berazategui</h1>
@@ -22,9 +23,10 @@
 
  👉🏼 Find me on
  
-![_f3f33a08-2dd5-429e-8fc2-b014ac8faa8c](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/assets/37006656/a775feaf-757d-4e13-a4bb-ca9c48a7e09e)
+![ilustration](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/assets/37006656/a775feaf-757d-4e13-a4bb-ca9c48a7e09e)
 
-<img src="https://myreadme.vercel.app/api/embed/Vanessa-Berazategui?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+![statics](https://myreadme.vercel.app/api/embed/Vanessa-Berazategui?panels=userstatistics,toprepositories,toplanguages,commitgraph)
+
 
 <br/><br/>
 
