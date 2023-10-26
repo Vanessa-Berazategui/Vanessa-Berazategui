@@ -1,4 +1,4 @@
-![header](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/assets/37006656/5b552b53-1418-45d0-875e-2fb594b9b416)
+![header](assets/header.jpeg)
 
 ![counter](https://komarev.com/ghpvc/?username=vanessa-berazategui&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -22,7 +22,7 @@
 
  👉🏼 Find me on
 
-[![ilustration](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/assets/37006656/a775feaf-757d-4e13-a4bb-ca9c48a7e09e)](https://www.vberazateguisilva.com/)
+[![ilustration](assets/ilustration.jpeg)](https://www.vberazateguisilva.com/)
 
 <br/>
 
@@ -30,4 +30,4 @@
 
 <br/>
 
-![footer](https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/assets/37006656/c6bb87b4-17a7-477e-88b5-64e7f89ce72e)
+![footer](assets/footer.jpeg)
