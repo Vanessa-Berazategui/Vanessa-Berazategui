@@ -16,7 +16,8 @@
 >of the Republic. I am currently working as a Team Lead on projects developed with Flutter in a private sector 
 >company in Montevideo, Uruguay. I am characterized as being a proactive, organized, and persevering person, a fan 
 >of technology, and programming, and with a strong interest in the areas of the internet of things, human-computer 
->interaction, home automation, and wearable technologies.<img align="right" src="assets/animations/octocat.gif" width="70px" height="70px"/>
+>interaction, home automation, and wearable technologies.
+><img align="right" src="assets/animations/octocat.gif" width="70px" height="70px"/>
 
 <br/>
 
