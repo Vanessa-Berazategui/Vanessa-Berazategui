@@ -1,4 +1,4 @@
-![header](assets/header.jpeg)
+![header](assets/images/header.jpeg)
 
 ![counter](https://komarev.com/ghpvc/?username=vanessa-berazategui&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -22,7 +22,7 @@
 
  👉🏼 Find me on
 
-[![ilustration](assets/ilustration.jpeg)](https://www.vberazateguisilva.com/)
+[![ilustration](assets/images/ilustration.jpeg)](https://www.vberazateguisilva.com/)
 
 <br/>
 
@@ -30,4 +30,4 @@
 
 <br/>
 
-![footer](assets/footer.jpeg)
+![footer](assets/images/footer.jpeg)
