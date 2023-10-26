@@ -2,7 +2,7 @@
 
 ![counter](https://komarev.com/ghpvc/?username=vanessa-berazategui&label=Profile%20views&color=0e75b6&style=flat)
 
-<h1>Hola <img src="https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/assets/37006656/96f2376b-7c2a-4d3c-b39a-180e1a591437" width="35px" height="35px">, mi nombre es Vanessa Berazategui</h1>
+# Hola <img src="https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/assets/37006656/96f2376b-7c2a-4d3c-b39a-180e1a591437" width="35px" height="35px">, mi nombre es Vanessa Berazategui
 
 >Hola, mi nombre es Vanessa Berazategui y soy Ingeniera en Computación de la Facultad de Ingeniería 
 >de la Universidad de la República.  Actualmente me encuentro trabajando como Team Lead de proyectos 
