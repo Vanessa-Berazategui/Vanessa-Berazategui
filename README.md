@@ -2,9 +2,9 @@
 
 ![counter](https://komarev.com/ghpvc/?username=vanessa-berazategui&label=Profile%20views&color=0e75b6&style=flat)
 
-# Hola <img src="https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/assets/37006656/96f2376b-7c2a-4d3c-b39a-180e1a591437" width="35px" height="35px">, mi nombre es Vanessa Berazategui
+# Hola / Hi <img src="https://github.com/Vanessa-Berazategui/Vanessa-Berazategui/assets/37006656/96f2376b-7c2a-4d3c-b39a-180e1a591437" width="35px" height="35px">,
 
->[es] Hola, mi nombre es Vanessa Berazategui y soy Ingeniera en Computación de la Facultad de Ingeniería 
+>[es] mi nombre es Vanessa Berazategui y soy Ingeniera en Computación de la Facultad de Ingeniería 
 >de la Universidad de la República.  Actualmente me encuentro trabajando como Team Lead de proyectos 
 >desarrollados con Flutter en una empresa del sector privado en Montevideo, Uruguay. Me caracterizo por 
 >ser una persona proactiva, organizada y perseverante, fanática de la tecnología, la programación y con 
@@ -12,16 +12,15 @@
 >y las tecnologías usables.
 >
 >
->[en] Hi, my name is Vanessa Berazategui and I'm a Computer Engineer from the School of Engineering of the University 
+>[en] my name is Vanessa Berazategui and I'm a Computer Engineer from the School of Engineering of the University 
 >of the Republic. I am currently working as a Team Lead on projects developed with Flutter in a private sector 
 >company in Montevideo, Uruguay. I am characterized as being a proactive, organized, and persevering person, a fan 
 >of technology, and programming, and with a strong interest in the areas of the internet of things, human-computer 
->interaction, home automation, and wearable technologies.
-><img align="right" src="assets/animations/octocat.gif" width="70px" height="70px"/>
+>interaction, home automation, and wearable technologies. <img align="right" src="assets/animations/octocat.gif" width="70px" height="70px"/>
 
-<br/>
+<br/><br/>
 
- 👉🏼 Find me on
+ 👉🏼 Encuentrame en / Find me on
 
 [![ilustration](assets/images/ilustration.jpeg)](https://www.vberazateguisilva.com/)
 
