@@ -24,9 +24,6 @@
 
 [![ilustration](assets/images/ilustration.jpeg)](https://www.vberazateguisilva.com/)
 
-<br/>
-
-![statics](https://myreadme.vercel.app/api/embed/Vanessa-Berazategui?panels=userstatistics,toprepositories,toplanguages,commitgraph)
 
 <br/>
 
