@@ -1,4 +1,4 @@
-![header](assets/images/header.png)
+![header](assets/images/background.png)
 
 ![counter](https://komarev.com/ghpvc/?username=vanessa-berazategui&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -18,4 +18,4 @@
 
 <br/>
 
-![footer](assets/images/footer.png)
+![footer](assets/images/background.png)
